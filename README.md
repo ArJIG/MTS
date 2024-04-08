@@ -22,4 +22,4 @@
 
 *Python, Pandas, Numpy, Proportions_ztest*
 
-![bd](https://github.com/ArJIG/game_project/blob/7d40f586b15e9c165c80f3326a6ddb76eb7c32ee/photo/photo_for_project.png)
+![bd](https://github.com/ArJIG/Project_for_Collect/blob/d133882eae1fbc17d89f123217323c98acf28364/Photo/Collect_logo.png)
